@@ -1,1 +1,1 @@
-# ai-comparison
+# ai-comparison-web
